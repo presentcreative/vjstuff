@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Space Background Multipack/Extended Seamless Backgrounds/Horizontal
+    Extended test.unity
+  isLoaded: 1
+  isActive: 1
